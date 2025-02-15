@@ -73,9 +73,9 @@ Deployment
 
 This application is deployed using Render and MongoDB Atlas.
 
-Live URL: Deployed App
+Live URL: https://challenge-18-book-search-engine.onrender.com
 
-GitHub Repository: Repository Link
+GitHub Repository: https://github.com/HeresJonny117/Challenge-18-Book-Search-Engine
 
 License
 
